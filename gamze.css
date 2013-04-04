@@ -1,0 +1,94 @@
+* {
+			margin:0;
+			padding:0;
+		}
+body{
+		font-family:oblique;
+		font-size:15px;
+		background: #000 url(gamze.png) center center fixed no-repeat;
+			-moz-background-size: cover;
+			background-size: cover;
+			color: black;
+}
+#images{	
+	margin-left:435px;
+	margin-top: 0px;
+	margin-bottom: -250px;
+			
+		}
+#text{
+			margin-left: 470px;
+			margin-top: 200px;
+			width:300px;
+			padding:5px;
+			font-size:1em;
+			border:2px solid SkyBlue;
+			border-radius:6px;
+			
+		}
+#text2{
+			margin-left: 470px;
+			width:50px;
+			padding:5px;
+			font-size:1em;
+			border:2px solid SkyBlue;
+			border-radius:6px;
+			color:black;
+			
+	}
+#submit{
+			width:80px;
+			padding:5px;
+			font-size:0.8em;
+			border:2px solid SkyBlue;
+			border-radius:6px;
+}	
+#radiobutton{
+			margin-left: 470px;
+			margin-top: 20px;
+			color:SkyBlue;
+}	
+#tweet_result{
+			margin-left: 410px;
+			margin-right: 400px;
+			color:black;
+			font-family:oblique;
+			overflow: scroll;	
+}
+.dis { 
+	display:block;
+	width:500px;
+	height:100px;
+	background-color:white;
+
+}
+.birinci,.ikinci { float:left}
+.birinci{
+	width:100px;
+	height:120px;
+	border:SkyBlue solid 4px;
+	background-color: LightBlue;
+	margin-right: 1px;
+	margin-left: 1px;
+}
+.ikinci{
+	width:375px;
+	height:120px;
+	border:SkyBlue solid 4px;
+	background-color: LightBlue	;
+	margin-top: 1px;
+}
+.name{
+color:DarkSlateGray;
+font-family:italic;
+}
+.twt{
+font-style:italic;
+}
+.twtname{
+color:red;
+}
+
+
+
+
